@@ -1,2 +1,2 @@
 # assignment1
-Quantiphi Training Assignments
+Training Assignments
