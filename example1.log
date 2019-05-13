@@ -1,7 +1,0 @@
-INFO:root:Input: Amu13@#S,Output: Valid
-INFO:root:Input: 3@aS,Output: Not Valid because:  Length under the limit.
-INFO:root:Input: Ash123,Output: Not Valid because:  Special character(#,@ or $) absent
-INFO:root:Input: Am13@$J,Output: Valid
-INFO:root:Input: aab13$,Output: Not Valid because:  Upper case letter absent.
-INFO:root:Input: aaaaaa,Output: Not Valid because:  Upper case letter absent. Digit absent. Special character(#,@ or $) absent
-INFO:root:Input: sssSSS$$$,Output: Not Valid because:  Digit absent.
